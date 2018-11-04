@@ -8,7 +8,7 @@ Please feel free to file issues on this repository if you have questions, concer
 ## mouseSpaz.com
 mouseSpaz was established in 2005 or thereabouts. Since that time the organization has competed at the top levels of the sport and remained 100% focused on the game and it's players. 
 
-This repository represents an effort by Sh3nl0ng take all of his experiences and knowledge from his time competing in CS:GO and create tailor-made solutions ranging from in-game practice modes, strategy analytics in tandem with supplemental written and video documentation in the form of articles and wiki entries.
+This repository represents an effort by Sh3nl0ng take all of his experiences and knowledge from his time competing in CS:GO and create tailor-made solutions to give new competitors a place to get a general overview of the fundamentals to competitive Counter-Strike.
 
 ### Primary Missions
 * Be a focused and constructive environment using minimal necessary policing.
