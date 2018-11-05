@@ -42,6 +42,8 @@
     "roots/wp-config": "1.0.0",
     "wpackagist-plugin/gutenberg":"4.1.1",
     "wpackagist-plugin/wordpress-social-login":"2.3.3",
+    "wpackagist-plugin/wp-github-sync":"2.0.1",
+    "wpackagist-plugin/wp-markdown":"1.6.1",
     "htmlburger/carbon-fields-plugin": "^2.2",
     "jjgrainger/posttypes": "^2.0"
   },
